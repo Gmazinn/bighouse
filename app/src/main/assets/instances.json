@@ -1,0 +1,17 @@
+{
+  "dungeons": [
+    {
+      "id": "cinder_crypt",
+      "name": "Cinder Crypt",
+      "lore": "Buried beneath the Ashveil mountains, this ancient vault was sealed after its guardian fell to corruption. Adventurers now delve into its smoldering depths for power and glory.",
+      "recommendedLevel": 10,
+      "encounters": [
+        { "name": "Ember Sentinels",    "type": "AOE_PACK",   "isRareSlot": false },
+        { "name": "Ashen Warband",      "type": "ELITE_PACK", "isRareSlot": false },
+        { "name": "The Vault Warden",   "type": "MINI_BOSS",  "isRareSlot": false },
+        { "name": "Rare Encounter",     "type": "ELITE_PACK", "isRareSlot": true  },
+        { "name": "The Ashen Sovereign","type": "FINAL_BOSS", "isRareSlot": false }
+      ]
+    }
+  ]
+}

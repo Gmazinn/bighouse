@@ -1,0 +1,49 @@
+{
+  "encounter_flavor": {
+    "AOE_PACK": [
+      "A wave of corrupted sentinels rushes toward your group!",
+      "The chamber erupts as ash-wreathed shades swarm from the shadows.",
+      "Dozens of ember constructs activate simultaneously."
+    ],
+    "ELITE_PACK": [
+      "Veteran wardens step forward with measured, lethal intent.",
+      "Cinder-forged elites surround your group with practiced precision.",
+      "A hardened vanguard of the Ashen Order blocks the path ahead."
+    ],
+    "MINI_BOSS": [
+      "The ancient guardian rises from its dormant throne.",
+      "An immense construct of void-touched iron awakens before you.",
+      "The Vault Warden's chains rattle as it turns to face intruders."
+    ],
+    "RARE_BOSS": [
+      "A forsaken champion materializes from the void — this foe was not expected.",
+      "Something powerful stirs in the darkness. A rare quarry has been sighted.",
+      "Fortune favors the bold: a rare champion has revealed itself."
+    ],
+    "FINAL_BOSS": [
+      "The Ashen Sovereign descends from its throne of cinders.",
+      "At last, the master of the Crypt reveals itself in terrible glory.",
+      "A wave of heat washes over you as the final guardian awakens."
+    ]
+  },
+  "between_encounter": [
+    "The corridor grows quiet. The group catches its breath.",
+    "Embers drift past as you press deeper into the Crypt.",
+    "A moment of uneasy silence before the next chamber.",
+    "The walls pulse with residual heat. You push forward.",
+    "The group patches wounds and restores their reserves."
+  ],
+  "victory_lines": [
+    "Victory! The encounter is defeated.",
+    "The last enemy falls. Well fought.",
+    "Clear! The path ahead is yours.",
+    "Enemy forces routed. Advance.",
+    "Another obstacle overcome."
+  ],
+  "wipe_lines": [
+    "The party has been defeated. The Crypt claims more victims.",
+    "Darkness takes the group. Try again with better preparation.",
+    "Your party has fallen. The Ashen Sovereign endures.",
+    "Wipe. Repair and return."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "male_first": ["Aldric","Brennan","Cael","Dorin","Eamon","Farid","Gorin","Harlen","Idris","Jorven","Kael","Lordan","Maren","Nolath","Orin","Piran","Quell","Roven","Salar","Tarek","Ulric","Varen","Wren","Xael","Yor","Zand"],
+  "female_first": ["Aela","Briann","Cera","Dwyn","Elara","Fyra","Gwen","Hira","Issa","Jynn","Kira","Lyra","Mira","Nessa","Orla","Pyra","Quara","Rysa","Syra","Tara","Una","Vara","Wyra","Xara","Ysa","Zara"],
+  "surnames": ["Ashveil","Blackthorn","Cindermoor","Duskwood","Emberfell","Frostmire","Grimwall","Hollowstone","Ironvale","Jadewing","Keldmere","Lichway","Moonveil","Nighthollow","Obsidian","Palewind","Quillmoor","Ravenmere","Shadowfen","Thornwall","Umbermist","Voidfen","Whiterock","Xenvale","Yarrow","Zephyrmere"],
+  "weapon_prefix": ["Ashen","Blazing","Cinder","Darkened","Ember","Forsaken","Grimmed","Hollow","Iron","Jagged","Keen","Lucid","Muted","Null","Obsidian","Pale","Quenched","Runed","Smoldering","Tempered","Umbral","Void","Withered","Xen","Yearning","Zealous"],
+  "weapon_suffix": ["Edge","Fang","Guard","Howl","Impaler","Jaw","Knell","Lance","Maw","Needle","Omen","Piercer","Quill","Rend","Shard","Tooth","Umbra","Veil","Wrath","Xis","Yaw","Zeal"],
+  "armor_prefix": ["Ashen","Burnished","Cinder","Darkened","Ember","Forsaken","Grimmed","Hollow","Iron","Jagged","Keldmere","Layered","Muted","Null","Obsidian","Pale","Quenched","Runed","Smoldering","Tempered","Umbral","Void","Withered","Xen","Yearning","Zealous"],
+  "armor_suffix": {"HEAD": ["Helm","Mask","Cowl","Hood","Circlet"],"CHEST": ["Chestplate","Vest","Hauberk","Cuirass","Robe"],"LEGS": ["Greaves","Leggings","Trousers","Chausses","Kilt"],"TRINKET": ["Sigil","Charm","Rune","Crystal","Pendant"]},
+  "enemy_prefix": ["Ashen","Burning","Cinder","Dusty","Ember","Forsaken","Grim","Hollow","Iron","Jagged"],
+  "enemy_type": ["Sentinel","Wraith","Revenant","Warden","Construct","Specter","Golem","Shade","Enforcer","Abomination"]
+}
